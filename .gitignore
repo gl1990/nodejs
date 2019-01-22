@@ -1,0 +1,9 @@
+node_modules
+*.log
+*.bak
+.idea
+packages
+dist
+yarn-error.log
+package-lock.json
+index.html

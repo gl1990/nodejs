@@ -1,0 +1,39 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "module": "es2015",
+    "target": "es5",
+    "lib": ["es6", "dom"],
+    "sourceMap": true,
+    "jsx": "react",
+    "typeRoots": [
+      "./typings"
+    ],
+    "declaration": false,
+    "moduleResolution": "node",
+    "rootDir": "src",
+    "noImplicitReturns": false,
+    "noImplicitThis": false,
+    "noImplicitAny": false,
+    "strictNullChecks": false,
+    "preserveConstEnums": false,
+    "allowSyntheticDefaultImports": true,
+    "resolveJsonModule": true,
+    "experimentalDecorators": true
+  },
+  "exclude": [
+    "node_modules",
+    "build",
+    "scripts",
+    "acceptance-tests",
+    "webpack",
+    "jest",
+    "react",
+    "lib",
+    "redux",
+    "reactRedux",
+    "React",
+    "lib/lodash"
+  ],
+  "types": ["typePatches"]
+}
