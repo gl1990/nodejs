@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [Cloud Studio](https://studio.dev.tencent.com) · [插件市场](https://studio.dev.tencent.com/plugins) · [插件开发文档](https://studio.dev.tencent.com/plugins-docs)
 
 >**以下内容均为示例内容，请在发布之前替换为您自己的插件使用文档。**
@@ -55,3 +56,7 @@ yarn start
 - [代码片段](https://coding.net/u/codingide/p/CloudStudio-Plugin-Snippets/git)
 - [Git diff 示例](https://coding.net/u/codingide/p/CloudStudio-Plugin-Diff/git)
 - [Atom Power Mode](https://coding.net/u/codingide/p/CloudStudio-Power-Mode/git)
+=======
+# nodejs
+addon example
+>>>>>>> branch 'master' of git@github.com:gl1990/nodejs.git
